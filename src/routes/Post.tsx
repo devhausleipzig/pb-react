@@ -11,21 +11,6 @@ export default function Post() {
     return <p>No post for id {postId} found</p>;
   }
 
-  const markdown = `A paragraph with *emphasis* and **strong importance**.
-
-> A block quote with ~strikethrough~ and a URL: https://reactjs.org.
-
-* Lists
-* [ ] todo
-* [x] done
-  
-A table:
-
-| a | b |
-| - | - |
-`;
-  console.log(post.body);
-
   return (
     <div className="prose">
       <h2 className="text-xl font-bold">{post.title}</h2>
