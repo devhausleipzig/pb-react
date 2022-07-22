@@ -21,8 +21,8 @@ A table:
   {
     id: 2,
     img: "https://images.unsplash.com/photo-1658309833607-4de9956d0bbd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
-    title: "qui est esse",
-    body: "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+    title: "Array Methods",
+    body: `This is a post about array methods`,
   },
   {
     id: 3,
